@@ -51,3 +51,15 @@ This project enhanced my understanding of how to build trust and responsibility 
 
 For a detailed explanation of the ethical analysis, policy framework, and sustainability strategies, please refer to the full project report:
 * [View Noon Ethics & Sustainability Policy Report (PDF)](Noon-Ethics-Sustainability-Policy-Report.docx/Noon-Ethics-Sustainability-Policy-Report.pdf)
+
+---
+## 👥 The Team
+
+This project was a successful collaboration between a dedicated team of three:
+
+*   **Hessa Khalfan** ([@Heskal](https://github.com/Heskal ))
+*   **Nourah Alghfeli** ([@NourahAlghfeli](https://github.com/NourahAlghfeli ))
+*   **Maryam BinHamdah** ([@MaryamBinHamdah](https://github.com/MaryamBinHamdah ))
+
+
+Our collective effort and effective communication were key to overcoming the complexities of this project.
